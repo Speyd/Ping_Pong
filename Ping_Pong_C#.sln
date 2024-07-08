@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping_Pong_C#", "Ping_Pong_C#\Ping_Pong_C#.csproj", "{8BC362D1-C50E-48D8-A93A-DEF0FE891CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameClass", "GameClass\GameClass.csproj", "{581C9E5F-C2B3-46CB-88CA-547E2DA07268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC362D1-C50E-48D8-A93A-DEF0FE891CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC362D1-C50E-48D8-A93A-DEF0FE891CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC362D1-C50E-48D8-A93A-DEF0FE891CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC362D1-C50E-48D8-A93A-DEF0FE891CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581C9E5F-C2B3-46CB-88CA-547E2DA07268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581C9E5F-C2B3-46CB-88CA-547E2DA07268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581C9E5F-C2B3-46CB-88CA-547E2DA07268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581C9E5F-C2B3-46CB-88CA-547E2DA07268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D94D27-9767-4C28-8EDF-5F8D95FAC024}
+	EndGlobalSection
+EndGlobal

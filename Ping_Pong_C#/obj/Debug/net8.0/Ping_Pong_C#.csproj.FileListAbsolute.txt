@@ -1,0 +1,14 @@
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\bin\Debug\net8.0\Ping_Pong_C#.exe
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\bin\Debug\net8.0\Ping_Pong_C#.deps.json
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\bin\Debug\net8.0\Ping_Pong_C#.runtimeconfig.json
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\bin\Debug\net8.0\Ping_Pong_C#.dll
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\bin\Debug\net8.0\Ping_Pong_C#.pdb
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.AssemblyInfoInputs.cache
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.AssemblyInfo.cs
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.csproj.CoreCompileInputs.cache
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.dll
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\refint\Ping_Pong_C#.dll
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.pdb
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\Ping_Pong_C#.genruntimeconfig.cache
+D:\C++ проекты\Ping_Pong_C#\Ping_Pong_C#\obj\Debug\net8.0\ref\Ping_Pong_C#.dll
